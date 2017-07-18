@@ -1,0 +1,3 @@
+{
+    "presets": ["babel-preset-env", "react"] //babel to compile into es5
+}
